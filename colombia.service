@@ -1,0 +1,11 @@
+[Unit]
+Description=Colombia Personal Assistance
+After=network.target
+
+[Service]
+User=kbhit
+Type=simple
+ExecStart=/home/kbhit/git/colombia/startup.sh
+
+[Install]
+WantedBy=multi-user.target
