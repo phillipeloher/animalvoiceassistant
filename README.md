@@ -9,7 +9,7 @@ Your own Alexa-like assistant with customizable creative animal personalities!  
 Watch our YouTube video [here](https://www.youtube.com/watch?v=HHxgvH2-z68)! 
 
 ### Tip the Kids! 21rst century Lemonade Stand
-Please tip the kids [here](https://paypal.me/mathkid5503) or https://paypal.me/mathkid5503 .  They would really appreciate it!
+Please tip the kids [here](https://paypal.me/mathkid5503) or https://paypal.me/mathkid5503 .  They spent many hours on this and would really appreciate it!
 
 ### AI and LLM models used
 - OpenAI Whisper, for speech to text
