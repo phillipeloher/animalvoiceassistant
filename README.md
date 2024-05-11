@@ -6,10 +6,10 @@
 
 Your own Alexa-like AI assistant with customizable creative animal personalities!  The voice assistant can turn into animals such as a snail, dog, frog, beta fish, etc. (your imagination is the limit!). A Raspberry Pi 5 was used alongside 3 different AI/Machine Learning models
 
-Watch our YouTube video [here](https://www.youtube.com/watch?v=HHxgvH2-z68)! 
+<h3>Watch our YouTube video (https://www.youtube.com/watch?v=HHxgvH2-z68) for more details! </h1>
 
 ### Tip the Kids! 21rst century Lemonade Stand
-Please tip the kids [here](https://paypal.me/mathkid5503) or https://paypal.me/mathkid5503 .  They spent many hours on this and would really appreciate it!
+Please tip the kids [here](https://paypal.me/mathkid5503).  They spent many hours on this and would really appreciate it!
 
 ### AI and LLM models used
 - OpenAI Whisper, for speech to text
