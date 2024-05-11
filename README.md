@@ -30,6 +30,6 @@ Please tip the kids [here](https://paypal.me/mathkid5503).  They spent many hour
 Dependencies: 
 - install Whisper and Piper (if it's helpful, use links in powerpoint speaker notes)
 - get your gemini key from google
-- configure coffee_flow.ipynd with information about the above dependencies
+- configure coffee_flow.ipynb with information about the above dependencies
 - the jupyter notebook will automatically generate the python file, which can be configured to autostart
 - HAVE FUN!
