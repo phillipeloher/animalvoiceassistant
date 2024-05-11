@@ -4,7 +4,7 @@
 </p>
 
 
-Your own Alexa-like assistant with customizable creative animal personalities!  A Raspberry Pi 5 was used alongside 3 different AI/Machine Learning models
+Your own Alexa-like AI assistant with customizable creative animal personalities!  The voice assistant can turn into animals such as a snail, dog, frog, beta fish, etc. (your imagination is the limit!). A Raspberry Pi 5 was used alongside 3 different AI/Machine Learning models
 
 Watch our YouTube video [here](https://www.youtube.com/watch?v=HHxgvH2-z68)! 
 
